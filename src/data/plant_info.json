@@ -1,0 +1,23 @@
+[
+  {
+    "id": "0",
+    "nombre": "cactus",
+    "foto": "/pics/0.jpg",
+    "fecha": "04-02-2021",
+    "descripcion": "Cuidado que pincha."
+  },
+  {
+    "id": "1",
+    "nombre": "Rosa",
+    "foto": "/pics/1.jpg",
+    "fecha": "14-04-2001",
+    "descripcion": "Esta también pincha."
+  },
+  {
+    "id": "2",
+    "nombre": "Quillay",
+    "foto": "/pics/2.jpg",
+    "fecha": "09-02-2007",
+    "descripcion": "Esta planta me hace pensar en quesillo."
+  }
+]
